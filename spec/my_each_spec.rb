@@ -1,4 +1,4 @@
-collection = ("prince", "ab", "tito")
+collection = ("4", "5", "6")
 def my_each(array)
   i = 0 
   while i < array.length 
